@@ -4,7 +4,7 @@ const app = new Vue (
         el:'#root',
 
         data: {
-            variabile: ''
+            titleTextInH1: '',
         },
 
         methods: {
